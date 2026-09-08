@@ -1,5 +1,3 @@
-package nuclear;
-
 import static java.lang.Thread.*;
 
 import java.io.IOException;
